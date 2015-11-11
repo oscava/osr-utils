@@ -1,0 +1,30 @@
+{
+  "name": "osr-utils",
+  "version": "0.0.2",
+  "description": "osr-utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "macha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oscava/osr-utils.git"
+  },
+  "keywords": [
+    "osr",
+    "utils"
+  ],
+  "author": "admin@cavacn.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oscava/osr-utils/issues"
+  },
+  "homepage": "https://github.com/oscava/osr-utils#readme",
+  "dependencies": {
+    "osr-class": "^0.1.8"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {}
+}
